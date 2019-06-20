@@ -1,0 +1,13 @@
+{
+    "name"           :    "Date::Utils",
+	"perl"           :    "6.c",
+	"license"        :    "Artistic-2.0",
+	"version"        :    "0.1.0",
+	"description"    :    "Date Functions useful!",
+	"author"         :    "ZengBoyuan",
+	"provides"       :    { "Date::Utils" : "lib/Date/Utils.pm" },
+	"depends"        :    [],
+	"source-url"     :    "git://github.com/skyter10086/Date-Utils.git",
+	"tags"           :    [ "date", "functions"]
+}
+	
