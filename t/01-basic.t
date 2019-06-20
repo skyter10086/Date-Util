@@ -4,6 +4,6 @@ use lib './lib';
 
 use Test;
 
-use-ok('Date::Utils');
+use-ok('Date::Util');
 
 done-testing();
