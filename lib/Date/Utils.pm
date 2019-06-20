@@ -1,6 +1,6 @@
 use v6.c;
 
-unit module Date::Utils;
+unit module Date::Util;
 
 enum DurType is export <Y M D YMD>;
 
